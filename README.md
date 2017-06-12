@@ -4,6 +4,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 ## Language agnostic
 
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+- [DOOM engine code review](http://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
 
 ## Haskell
 
@@ -35,10 +36,12 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 ## C++
 
 - [Design & Implementation of a Win32 Text Editor](http://www.catch22.net/tuts/unicode-text-processing)
+- [DOOM3 Source Code Review](http://fabiensanglard.net/doom3/)
 
 ## Rust
 
 - [Building a Multithreaded Web Server](https://doc.rust-lang.org/beta/book/second-edition/ch20-00-final-project-a-web-server.html) TODO: Update this link when it comes out of beta
+- [Writing an OS in Rust](http://os.phil-opp.com/)
 
 ## Python
 
