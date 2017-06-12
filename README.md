@@ -1,5 +1,5 @@
 # well-documented
-A collection of analyses, tutorials, walkthroughs and literate implementations of moderately-complex standalone applications
+A collection of analyses, tutorials, walkthroughs and literate implementations of moderately complex standalone applications
 
 ## Language agnostic
 
