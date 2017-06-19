@@ -27,12 +27,12 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 ## C
 
-- [Selfie](https://github.com/cksystemsteaching/selfie) - *"An educational software system of a tiny self-compiling C compiler, a tiny self-executing MIPS emulator, and a tiny self-hosting MIPS hypervisor"
+- [Selfie](https://github.com/cksystemsteaching/selfie) - *"An educational software system of a tiny self-compiling C compiler, a tiny self-executing MIPS emulator, and a tiny self-hosting MIPS hypervisor"*
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
-- [Voc](http://pbat.ch/proj/voc/) - *"[A] physical model of the vocal tract"
+- [Voc](http://pbat.ch/proj/voc/) - *"[A] physical model of the vocal tract"*
 - [The Craft of Text Editing](http://www.finseth.com/craft/)
-- [Kilo](https://github.com/antirez/kilo) - *A text editor in less than 1000 LOC with syntax highlight and search"
+- [Kilo](https://github.com/antirez/kilo) - *"A text editor in less than 1000 LOC with syntax highlight and search"*
 
 ## C++
 
@@ -41,7 +41,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 ## Rust
 
-- [Building a Multithreaded Web Server](https://doc.rust-lang.org/beta/book/second-edition/ch20-00-final-project-a-web-server.html) TODO: Update this link when it comes out of beta
+- [Building a Multithreaded Web Server](https://doc.rust-lang.org/beta/book/second-edition/ch20-00-final-project-a-web-server.html) - *TODO: Update this link when it comes out of beta*
 - [Writing an OS in Rust](http://os.phil-opp.com/)
 
 ## Python
