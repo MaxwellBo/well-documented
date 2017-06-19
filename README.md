@@ -4,7 +4,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 ## Language agnostic
 
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-- [DOOM engine code review](http://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
+- [DOOM Engine source code review](http://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
 - [How I Start.](http://howistart.org/)
 
 ## Haskell
@@ -37,7 +37,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 ## C++
 
 - [Design & Implementation of a Win32 Text Editor](http://www.catch22.net/tuts/unicode-text-processing)
-- [DOOM3 Source Code Review](http://fabiensanglard.net/doom3/)
+- [Doom3 Source Code Review](http://fabiensanglard.net/doom3/)
 
 ## Rust
 
