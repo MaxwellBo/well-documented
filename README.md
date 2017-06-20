@@ -6,7 +6,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - [DOOM Engine source code review](http://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
 - [How I Start.](http://howistart.org/) - *"[A] mix between a collection of development tutorials and [setup guides]"*
-- [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview) - *type-level programming abomination* 
+
 
 ## Haskell
 
@@ -16,6 +16,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - The "Writing" section of [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
 - [Teleport](http://bollu.github.io/teleport/) - *"How to write a small, useful command line application in Haskell"*
 - [Hindley-Damas-Milner tutorial](https://github.com/quchen/articles/tree/master/hindley-milner)
+- [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview) - *type-level programming abomination* 
 
 ## Common Lisp
 
