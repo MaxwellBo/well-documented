@@ -44,6 +44,10 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Building a Multithreaded Web Server](https://doc.rust-lang.org/beta/book/second-edition/ch20-00-final-project-a-web-server.html) - *TODO: Update this link when it comes out of beta*
 - [Writing an OS in Rust](http://os.phil-opp.com/)
 
+## Commodore 64 Assembly
+
+- [A Mind is Born](https://linusakesson.net/scene/a-mind-is-born/) - *256 byte demo*
+
 ## Python
 
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
