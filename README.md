@@ -6,6 +6,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - [DOOM Engine source code review](http://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
 - [How I Start.](http://howistart.org/) - *"[A] mix between a collection of development tutorials and [setup guides]"*
+- [Glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html) - *Optics library*
 
 
 ## Haskell
