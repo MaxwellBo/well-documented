@@ -17,7 +17,8 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Hindley-Damas-Milner tutorial](https://github.com/quchen/articles/tree/master/hindley-milner)
 - [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview) - *type-level programming abomination*
 - [Glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html) - *Optics library*
-
+- [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/)
+- [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
 
 ## Common Lisp
 
