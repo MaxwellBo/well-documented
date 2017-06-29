@@ -19,6 +19,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html) - *Optics library*
 - [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/)
 - [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
+- [kinder-functor](https://github.com/rampion/kinder-functor) - *An alternate definition of Haskell's Functor typeclass*
 
 ## Common Lisp
 
