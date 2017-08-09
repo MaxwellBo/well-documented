@@ -25,6 +25,10 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 - [Axiom](http://www.axiom-developer.org/axiom-website/books.html) - *"The Scientific Computation System"*
 
+## Clojure
+
+- [Ferret](https://github.com/nakkaya/ferret/blob/0.2.8/ferret.org) - *A "[compiler of] a restricted subset of the Clojure language to self contained ISO C++11*
+
 
 ## C#
 
@@ -58,6 +62,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
+- [tinychain](https://github.com/jamesob/tinychain) - *A pocket-sized implementation of Bitcoin*
 
 ## JavaScript
 
