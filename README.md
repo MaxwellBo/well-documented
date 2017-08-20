@@ -20,6 +20,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/)
 - [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
 - [kinder-functor](https://github.com/rampion/kinder-functor) - *An alternate definition of Haskell's Functor typeclass*
+- [Rolling your Own Blockchain in Haskell](http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html)
 
 ## Common Lisp
 
