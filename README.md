@@ -22,6 +22,10 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [kinder-functor](https://github.com/rampion/kinder-functor) - *An alternate definition of Haskell's Functor typeclass*
 - [Rolling your Own Blockchain in Haskell](http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html)
 
+## Coq
+
+- [Writing a Formally-Verified Porn Browser in Coq and Haskell](http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html)
+
 ## Common Lisp
 
 - [Axiom](http://www.axiom-developer.org/axiom-website/books.html) - *"The Scientific Computation System"*
