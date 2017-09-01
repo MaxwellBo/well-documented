@@ -21,6 +21,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
 - [kinder-functor](https://github.com/rampion/kinder-functor) - *An alternate definition of Haskell's Functor typeclass*
 - [Rolling your Own Blockchain in Haskell](http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html)
+- [Nanochain](https://github.com/adjoint-io/nanochain) - *A minimal viable blockchain to demonstrate simple blockchain principles.*
 
 ## Coq
 
