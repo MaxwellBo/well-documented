@@ -1,5 +1,5 @@
 # well-documented
-A collection of analyses, tutorials, walkthroughs and literate implementations of moderately complex standalone applications
+A collection of analyses, tutorials, walkthroughs and literate implementations of moderately complex standalone applications. 
 
 ## Language agnostic
 
@@ -19,9 +19,9 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Glassery](http://oleg.fi/gists/posts/2017-04-18-glassery.html) - *Optics library*
 - [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/)
 - [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/)
-- [kinder-functor](https://github.com/rampion/kinder-functor) - *An alternate definition of Haskell's Functor typeclass*
+- [kinder-functor](https://github.com/rampion/kinder-functor) - *"An alternate definition of Haskell's Functor typeclass"*
 - [Rolling your Own Blockchain in Haskell](http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html)
-- [Nanochain](https://github.com/adjoint-io/nanochain) - *A minimal viable blockchain to demonstrate simple blockchain principles.*
+- [Nanochain](https://github.com/adjoint-io/nanochain) - *"A minimal viable blockchain to demonstrate simple blockchain principles."*
 
 ## Coq
 
@@ -33,7 +33,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 ## Clojure
 
-- [Ferret](https://github.com/nakkaya/ferret/blob/0.2.8/ferret.org) - *A "[compiler of] a restricted subset of the Clojure language to self contained ISO C++11*
+- [Ferret](https://github.com/nakkaya/ferret/blob/0.2.8/ferret.org) - *A "[compiler of] a restricted subset of the Clojure language to self contained ISO C++11"*
 
 
 ## C#
@@ -47,7 +47,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 - [Voc](http://pbat.ch/proj/voc/) - *"[A] physical model of the vocal tract"*
 - [The Craft of Text Editing](http://www.finseth.com/craft/)
-- [Kilo](https://github.com/antirez/kilo) - *"A text editor in less than 1000 LOC with syntax highlight and search"*'
+- [Kilo](https://github.com/antirez/kilo) - *"A text editor in less than 1000 LOC with syntax highlight and search"*
 - [Raycasting](http://lodev.org/cgtutor/raycasting.html)
 
 ## C++
@@ -68,7 +68,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
-- [tinychain](https://github.com/jamesob/tinychain) - *A pocket-sized implementation of Bitcoin*
+- [tinychain](https://github.com/jamesob/tinychain) - *"A pocket-sized implementation of Bitcoin"*
 
 ## JavaScript
 
