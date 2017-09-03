@@ -49,6 +49,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [The Craft of Text Editing](http://www.finseth.com/craft/)
 - [Kilo](https://github.com/antirez/kilo) - *"A text editor in less than 1000 LOC with syntax highlight and search"*
 - [Raycasting](http://lodev.org/cgtutor/raycasting.html)
+- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## C++
 
@@ -59,6 +60,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 - [Building a Multithreaded Web Server](https://doc.rust-lang.org/beta/book/second-edition/ch20-00-final-project-a-web-server.html) - *TODO: Update this link when it comes out of beta*
 - [Writing an OS in Rust](http://os.phil-opp.com/)
+- [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
 ## Commodore 64 Assembly
 
@@ -69,6 +71,8 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
 - [tinychain](https://github.com/jamesob/tinychain) - *"A pocket-sized implementation of Bitcoin"*
+- [Let's Build a Web Server](https://ruslanspivak.com/lsbaws-part1/)
+- [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 
 ## JavaScript
 
