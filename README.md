@@ -22,6 +22,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [kinder-functor](https://github.com/rampion/kinder-functor) - *"An alternate definition of Haskell's Functor typeclass"*
 - [Rolling your Own Blockchain in Haskell](http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html)
 - [Nanochain](https://github.com/adjoint-io/nanochain) - *"A minimal viable blockchain to demonstrate simple blockchain principles."*
+- [Let's make a GTK Video Player with Haskell](https://lettier.github.io/posts/2017-08-30-haskell-gtk-video-player.html)
 
 ## Coq
 
@@ -55,6 +56,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 - [Design & Implementation of a Win32 Text Editor](http://www.catch22.net/tuts/unicode-text-processing)
 - [Doom3 Source Code Review](http://fabiensanglard.net/doom3/)
+- [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
 
 ## Rust
 
@@ -77,3 +79,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 ## JavaScript
 
 - [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
+
+## OpenType
+
+- [Let's make a small font](http://processingjs.nihongoresources.com/the_smallest_font/)
