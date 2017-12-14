@@ -35,6 +35,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 ## Clojure
 
 - [Ferret](https://github.com/nakkaya/ferret/blob/0.2.8/ferret.org) - *A "[compiler of] a restricted subset of the Clojure language to self contained ISO C++11"*
+- [rhymes.clj](https://gist.github.com/ftrain/8655399) - *Annotated rhyming dictionary*
 
 
 ## Commodore 64 Assembly
