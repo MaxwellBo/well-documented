@@ -18,6 +18,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Kilo](https://github.com/antirez/kilo) - *"A text editor in less than 1000 LOC with syntax highlight and search"*
 - [Raycasting](http://lodev.org/cgtutor/raycasting.html)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [TinyWM](http://incise.org/tinywm.html) - *A minimalistic, 50 line window manager* 
 
 
 ## C#
