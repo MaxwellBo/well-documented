@@ -31,6 +31,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Design & Implementation of a Win32 Text Editor](http://www.catch22.net/tuts/unicode-text-processing)
 - [Doom3 Source Code Review](http://fabiensanglard.net/doom3/)
 - [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
+- [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/)
 
 
 ## Clojure
