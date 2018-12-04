@@ -8,6 +8,9 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [How I Start.](http://howistart.org/) - *"[A] mix between a collection of development tutorials and [setup guides]"*
 - [Programs To Read](http://wiki.c2.com/?ProgramsToRead)
 
+## Agda
+
+- [Programming Language Foundations in Agda](https://plfa.github.io/)
 
 ## C
 
