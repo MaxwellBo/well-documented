@@ -95,7 +95,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [tinychain](https://github.com/jamesob/tinychain) - *"A pocket-sized implementation of Bitcoin"*
 - [Let's Build a Web Server](https://ruslanspivak.com/lsbaws-part1/)
 - [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
-
+- [Bytecode compilers and interpreters](https://bernsteinbear.com/blog/bytecode-interpreters/)
 
 ## Rust
 
