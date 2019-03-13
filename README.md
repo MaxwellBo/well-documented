@@ -81,6 +81,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 ## JavaScript
 
 - [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
+- [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 
 
 ## OpenType
