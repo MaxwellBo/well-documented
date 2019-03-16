@@ -98,6 +98,7 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 - [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Bytecode compilers and interpreters](https://bernsteinbear.com/blog/bytecode-interpreters/)
 - [List of IPython (Jupyter) Notebooks by Peter Norvig](http://norvig.com/ipython/README.html)
+- [Python Prolog Interpreter](https://github.com/photonlines/Python-Prolog-Interpreter)
 
 ## Rust
 
