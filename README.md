@@ -59,6 +59,9 @@ A collection of analyses, tutorials, walkthroughs and literate implementations o
 
 - [Writing a Formally-Verified Porn Browser in Coq and Haskell](http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html)
 
+## Go
+
+- [A Go implementation of Poly1305 that makes sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
 
 ## Haskell
 
