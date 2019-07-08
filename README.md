@@ -1,5 +1,7 @@
 # well-documented
-A collection of analyses, tutorials, walkthroughs and literate implementations of moderately complex standalone applications. 
+A collection of analyses, "tutorials", walkthroughs and literate implementations of moderately complex standalone applications. 
+
+NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to make an React SPA". I want to add tutorials for things that most people have never considered making themselves, and cover aspects of the problem domain rather than the surrounding framework. 
 
 ## Language agnostic
 
