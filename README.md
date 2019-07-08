@@ -61,6 +61,10 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 
 - [Writing a Formally-Verified Porn Browser in Coq and Haskell](http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html)
 
+## Elixir
+
+- [An eInk display with Nerves & Elixir - Getting started with Inky](http://underjord.io/an-eink-display-with-nerves-elixir.html)
+
 ## Go
 
 - [A Go implementation of Poly1305 that makes sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
@@ -110,3 +114,4 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 - [Building a Multithreaded Web Server](https://doc.rust-lang.org/beta/book/second-edition/ch20-00-final-project-a-web-server.html) - *TODO: Update this link when it comes out of beta*
 - [Writing an OS in Rust](http://os.phil-opp.com/)
 - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [Speedy Desktop Apps With GTK and Rust](https://nora.codes/tutorial/speedy-desktop-apps-with-gtk-and-rust/)
