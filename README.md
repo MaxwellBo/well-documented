@@ -115,3 +115,7 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 - [Writing an OS in Rust](http://os.phil-opp.com/)
 - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [Speedy Desktop Apps With GTK and Rust](https://nora.codes/tutorial/speedy-desktop-apps-with-gtk-and-rust/)
+
+## Scheme
+
+- [Let's build a compiler](https://generalproblem.net/lets_build_a_compiler/01-starting-out/)
