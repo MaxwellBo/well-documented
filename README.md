@@ -17,7 +17,7 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 ## C
 
 - [Selfie](https://github.com/cksystemsteaching/selfie) - *"An educational software system of a tiny self-compiling C compiler, a tiny self-executing MIPS emulator, and a tiny self-hosting MIPS hypervisor"*
-- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/) (with associated [Hacker News discussion](https://news.ycombinator.com/item?id=14046446))
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 - [Voc](http://pbat.ch/proj/voc/) - *"[A] physical model of the vocal tract"*
 - [The Craft of Text Editing](http://www.finseth.com/craft/)
