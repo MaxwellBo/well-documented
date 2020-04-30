@@ -68,6 +68,7 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 ## Go
 
 - [A Go implementation of Poly1305 that makes sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
+- [Database basics: writing a SQL database from scratch in Go](https://notes.eatonphil.com/database-basics.html)
 
 ## Haskell
 
