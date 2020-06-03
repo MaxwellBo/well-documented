@@ -35,7 +35,7 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 
 ## C++
 
-- [Design & Implementation of a Win32 Text Editor](http://www.catch22.net/tuts/unicode-text-processing)
+- [Design & Implementation of a Win32 Text Editor](http://www.catch22.net/tuts/neatpad)
 - [Doom3 Source Code Review](http://fabiensanglard.net/doom3/)
 - [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
 - [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/)
