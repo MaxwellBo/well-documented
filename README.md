@@ -94,6 +94,7 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 - [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
 - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 - [Build your own React](https://pomb.us/build-your-own-react/)
+- [Git in six hundred words](http://gitlet.maryrosecook.com/docs/gitlet.html)
 
 ## OpenType
 
