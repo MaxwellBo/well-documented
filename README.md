@@ -46,6 +46,9 @@ NOTE: When I say "tutorial", it means I don't want to add tutorials like "How to
 - [Ferret](https://github.com/nakkaya/ferret/blob/0.2.8/ferret.org) - *A "[compiler of] a restricted subset of the Clojure language to self contained ISO C++11"*
 - [rhymes.clj](https://gist.github.com/ftrain/8655399) - *Annotated rhyming dictionary*
 
+## Ruby
+
+- [Rhizome](https://github.com/chrisseaton/rhizome) - *Rhizome is a paedagogical just-in-time compiler (JIT) for Ruby, implemented in pure Ruby.*
 
 ## Commodore 64 Assembly
 
